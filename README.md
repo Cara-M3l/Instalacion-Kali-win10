@@ -50,4 +50,4 @@ Puedes descargarlo aquí: [7-zip](https://www.7-zip.org/download.html)
 Nombre de usuario: kali
 Contraseña: kali
 ```
-## ¡Felicidades, lo has logrado! Para continuar aprendiendo: [Aprendiendo Kali paso a paso con Self-Way](https://github.com/NeverWonderLand/Self-Way)
+## ¡Felicidades, lo has logrado!
